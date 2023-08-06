@@ -5,6 +5,6 @@ It is a Google Scripts that automates the extraction of data to generate metric 
 
 It is highly customizable based on which columns and features the team wanted to extract, just plug it in the spreadsheet it was connected to and it would work.
 
-### By using it we saved several hours and were able to measure with precision our sales efforts and where we could go with it.
+#### By using it we saved several hours and were able to measure with precision our sales efforts and where we could go with it.
 
-### Later I set up this script to be ran for more than 5 different companies to also help them save time.
+#### Later I set up this script to be ran for more than 5 different companies to also help them save time.
